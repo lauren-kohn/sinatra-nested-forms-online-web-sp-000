@@ -1,5 +1,4 @@
 require './environment'
-#require_relative 'views/pirates/new.erb'
 
 module FormsLab
   class App < Sinatra::Base
